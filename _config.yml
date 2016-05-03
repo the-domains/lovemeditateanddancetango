@@ -1,0 +1,28 @@
+name: Lovemeditateanddancetango
+favicon: null
+layout_spectrum: 0.7827014287468046
+typography_spectrum: 0.09343480155803263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7503991993144155
+  lightness: 0.6787177403457463
+  saturation: 0.36463971901685
+  rhythmicContrast: 0.6329880855046213
+purpose: []
